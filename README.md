@@ -1,12 +1,3 @@
-# Kiểm thử hiệu năng trang canvas.phenikaa-uni.edu.vn bằng Apache JMeter
-
-**Sinh viên:** [Họ tên]  
-**MSV:** [Mã số sinh viên]  
-**Lớp:** [Lớp]  
-**Môn học:** Kiểm thử phần mềm  
-**Ngày thực hiện:** 14/10/2026
-
----
 
 ## 1. Giới thiệu công cụ JMeter
 
